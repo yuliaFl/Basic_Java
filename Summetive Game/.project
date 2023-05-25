@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Summetive Game</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/images/Game.png</name>
+			<type>1</type>
+			<location>/Users/morkovka/Desktop/Game.png</location>
+		</link>
+		<link>
+			<name>src/images/Loading.png</name>
+			<type>1</type>
+			<location>/Users/morkovka/Desktop/Loading.png</location>
+		</link>
+		<link>
+			<name>src/images/Main.png</name>
+			<type>1</type>
+			<location>/Users/morkovka/Desktop/Main.png</location>
+		</link>
+		<link>
+			<name>src/images/Volk_Left1.png</name>
+			<type>1</type>
+			<location>/Users/morkovka/Desktop/Volk_Left 1.png</location>
+		</link>
+		<link>
+			<name>src/images/Volk_Right1.png</name>
+			<type>1</type>
+			<location>/Users/morkovka/Desktop/Volk_Right1.png</location>
+		</link>
+		<link>
+			<name>src/images/chick.png</name>
+			<type>1</type>
+			<location>/Users/morkovka/Desktop/chick.png</location>
+		</link>
+		<link>
+			<name>src/images/eggUp.png</name>
+			<type>1</type>
+			<location>/Users/morkovka/Desktop/egg.png</location>
+		</link>
+		<link>
+			<name>src/images/gameOver.png</name>
+			<type>1</type>
+			<location>/Users/morkovka/Desktop/download.png</location>
+		</link>
+		<link>
+			<name>src/images/opening2.png</name>
+			<type>1</type>
+			<location>/Users/morkovka/Desktop/opening2.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
